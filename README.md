@@ -26,6 +26,6 @@
 -JC_Button.h: creates a clean (cleaner code) interaction with physical buttons, debounce functionality was biggest reason for its use.
 -Wire.h and Adafruit_TCS34725.h: both used to communicate with color sensing module easier
 
-<img src="colorSensingHousing.jpg" alt="Hardware in mid-creation, before install" width="250" height="250">
+<img src="./colorSensingHousing.jpg" alt="Hardware in mid-creation, before install" width="250" height="250">
 
-<img src="colorSensingHousingInside.jpg" alt="Hardware in mid-creation, inside components, before install" width="250" height="250">
+<img src="./colorSensingHousingInside.jpg" alt="Hardware in mid-creation, inside components, before install" width="250" height="250">
