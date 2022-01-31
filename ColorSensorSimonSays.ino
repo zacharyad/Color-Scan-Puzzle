@@ -72,7 +72,7 @@ void emergencyResetCheck(){
   }
 }
 
-void onSucess(){
+void onSuccess(){
     digitalWrite(redLed, LOW);
     digitalWrite(greenLed, LOW);
     digitalWrite(blueLed, LOW);
@@ -386,7 +386,7 @@ void SM(){
        // pop Lock and doreset
        started = 1;
        delay(1000);
-       onSucess();
+       onSuccess();
        state = 0;
       } else {
         Serial.println(counter);
